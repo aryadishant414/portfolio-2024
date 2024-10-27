@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Status: Currently in Development
 
-I am currently working on my personal portfolio, which will showcase my skills, experiences, and projects as a frontend developer and software engineer. This portfolio is being built using **Next.js** and **TypeScript**.
+I am currently working on my personal portfolio, which will showcase my skills, experiences, and projects as a full-stack developer and software engineer. This portfolio is being built using **Next.js** and **TypeScript**.
 
 ## Technologies Used
 
